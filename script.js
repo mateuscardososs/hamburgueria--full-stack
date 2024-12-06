@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
           metodoPagamento,
       };
 
-      fetch('http://localhost:3000/pedido', {
+      fetch('https://hamburgueria-full-stack.onrender.com', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(pedido),
