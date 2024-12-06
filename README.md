@@ -85,10 +85,8 @@ HAMBURGUER/
 ## 🌐 Deploy
 
 ### **Frontend**
-- Hospedado na **Vercel**: [Acesse Aqui](https://hamburgueria-frontend.vercel.app)
-
 ### **Backend**
-- Hospedado na **Render**: [Acesse Aqui](https://hamburgueria-backend.onrender.com)
+- Hospedado na **Render**: [Acesse Aqui](https://hamburgueria-full-stack.onrender.com/)
 
 ---
 
